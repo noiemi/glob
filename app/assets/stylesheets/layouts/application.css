@@ -22,6 +22,7 @@ header .logo {
 header .logo .bullet {
   transition: color 0.2s;
   color: #F44717;
+  margin: 0 10px;
 }
 
 header .logo:hover .bullet {
@@ -44,7 +45,7 @@ header .logo h1 {
 header .logo h1 small {
   position: relative;
   font-size: 40%;
-  bottom: -1.7em;
+  bottom: -2.3em;
   margin-left: -3.9em;
   font-family: 'Open Sans Condensed', sans-serif;
 }
